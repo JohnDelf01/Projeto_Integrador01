@@ -8,5 +8,5 @@ st.set_page_config(
 )
 
 st.header("GoParty: um Party Locator que encontra o entretenimento perfeito para você!")
-st.markdown("###### Eu sou responsável pela localização de Bares & Restaurantes com os ambientes certos para você e com os preços mais acessíveis 😉")
+st.markdown("####### Eu sou responsável pela localização de Bares & Restaurantes com os ambientes certos para você e com os preços mais acessíveis 😉")
 
